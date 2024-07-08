@@ -11,8 +11,7 @@ exports[`Facer Store Approval should foo 1`] = `
 `;
 
 exports[`Facer Store Approval should thirtyDays 1`] = `
-"OMGHAI!
--------- day 0 --------
+"-------- day 0 --------
 name, sellIn, quality
 +5 Dexterity Vest, 10, 20
 Vintage Rolex, 2, 0
@@ -22,7 +21,7 @@ Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 15, 20
 Passes to Watchface Conference, 10, 49
 Passes to Watchface Conference, 5, 49
-Fragile Watch, 3, 6
+Fragile, 3, 6
 
 -------- day 1 --------
 name, sellIn, quality
@@ -34,7 +33,7 @@ Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 14, 21
 Passes to Watchface Conference, 9, 50
 Passes to Watchface Conference, 4, 50
-Fragile Watch, 2, 5
+Fragile, 2, 4
 
 -------- day 2 --------
 name, sellIn, quality
@@ -46,343 +45,343 @@ Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 13, 22
 Passes to Watchface Conference, 8, 50
 Passes to Watchface Conference, 3, 50
-Fragile Watch, 1, 4
+Fragile, 1, 2
 
 -------- day 3 --------
 name, sellIn, quality
 +5 Dexterity Vest, 7, 17
-Vintage Rolex, -1, 4
+Vintage Rolex, -1, 3
 Elixir of the Mongoose, 2, 4
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 12, 23
 Passes to Watchface Conference, 7, 50
 Passes to Watchface Conference, 2, 50
-Fragile Watch, 0, 3
+Fragile, 0, 0
 
 -------- day 4 --------
 name, sellIn, quality
 +5 Dexterity Vest, 6, 16
-Vintage Rolex, -2, 6
+Vintage Rolex, -2, 4
 Elixir of the Mongoose, 1, 3
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 11, 24
 Passes to Watchface Conference, 6, 50
 Passes to Watchface Conference, 1, 50
-Fragile Watch, -1, 1
+Fragile, -1, 0
 
 -------- day 5 --------
 name, sellIn, quality
 +5 Dexterity Vest, 5, 15
-Vintage Rolex, -3, 8
+Vintage Rolex, -3, 5
 Elixir of the Mongoose, 0, 2
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 10, 25
 Passes to Watchface Conference, 5, 50
 Passes to Watchface Conference, 0, 50
-Fragile Watch, -2, 0
+Fragile, -2, 0
 
 -------- day 6 --------
 name, sellIn, quality
 +5 Dexterity Vest, 4, 14
-Vintage Rolex, -4, 10
+Vintage Rolex, -4, 6
 Elixir of the Mongoose, -1, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 9, 27
 Passes to Watchface Conference, 4, 50
 Passes to Watchface Conference, -1, 0
-Fragile Watch, -3, 0
+Fragile, -3, 0
 
 -------- day 7 --------
 name, sellIn, quality
 +5 Dexterity Vest, 3, 13
-Vintage Rolex, -5, 12
+Vintage Rolex, -5, 7
 Elixir of the Mongoose, -2, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 8, 29
 Passes to Watchface Conference, 3, 50
 Passes to Watchface Conference, -2, 0
-Fragile Watch, -4, 0
+Fragile, -4, 0
 
 -------- day 8 --------
 name, sellIn, quality
 +5 Dexterity Vest, 2, 12
-Vintage Rolex, -6, 14
+Vintage Rolex, -6, 8
 Elixir of the Mongoose, -3, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 7, 31
 Passes to Watchface Conference, 2, 50
 Passes to Watchface Conference, -3, 0
-Fragile Watch, -5, 0
+Fragile, -5, 0
 
 -------- day 9 --------
 name, sellIn, quality
 +5 Dexterity Vest, 1, 11
-Vintage Rolex, -7, 16
+Vintage Rolex, -7, 9
 Elixir of the Mongoose, -4, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 6, 33
 Passes to Watchface Conference, 1, 50
 Passes to Watchface Conference, -4, 0
-Fragile Watch, -6, 0
+Fragile, -6, 0
 
 -------- day 10 --------
 name, sellIn, quality
 +5 Dexterity Vest, 0, 10
-Vintage Rolex, -8, 18
+Vintage Rolex, -8, 10
 Elixir of the Mongoose, -5, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 5, 35
 Passes to Watchface Conference, 0, 50
 Passes to Watchface Conference, -5, 0
-Fragile Watch, -7, 0
+Fragile, -7, 0
 
 -------- day 11 --------
 name, sellIn, quality
 +5 Dexterity Vest, -1, 8
-Vintage Rolex, -9, 20
+Vintage Rolex, -9, 11
 Elixir of the Mongoose, -6, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 4, 38
 Passes to Watchface Conference, -1, 0
 Passes to Watchface Conference, -6, 0
-Fragile Watch, -8, 0
+Fragile, -8, 0
 
 -------- day 12 --------
 name, sellIn, quality
 +5 Dexterity Vest, -2, 6
-Vintage Rolex, -10, 22
+Vintage Rolex, -10, 12
 Elixir of the Mongoose, -7, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 3, 41
 Passes to Watchface Conference, -2, 0
 Passes to Watchface Conference, -7, 0
-Fragile Watch, -9, 0
+Fragile, -9, 0
 
 -------- day 13 --------
 name, sellIn, quality
 +5 Dexterity Vest, -3, 4
-Vintage Rolex, -11, 24
+Vintage Rolex, -11, 13
 Elixir of the Mongoose, -8, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 2, 44
 Passes to Watchface Conference, -3, 0
 Passes to Watchface Conference, -8, 0
-Fragile Watch, -10, 0
+Fragile, -10, 0
 
 -------- day 14 --------
 name, sellIn, quality
 +5 Dexterity Vest, -4, 2
-Vintage Rolex, -12, 26
+Vintage Rolex, -12, 14
 Elixir of the Mongoose, -9, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 1, 47
 Passes to Watchface Conference, -4, 0
 Passes to Watchface Conference, -9, 0
-Fragile Watch, -11, 0
+Fragile, -11, 0
 
 -------- day 15 --------
 name, sellIn, quality
 +5 Dexterity Vest, -5, 0
-Vintage Rolex, -13, 28
+Vintage Rolex, -13, 15
 Elixir of the Mongoose, -10, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, 0, 50
 Passes to Watchface Conference, -5, 0
 Passes to Watchface Conference, -10, 0
-Fragile Watch, -12, 0
+Fragile, -12, 0
 
 -------- day 16 --------
 name, sellIn, quality
 +5 Dexterity Vest, -6, 0
-Vintage Rolex, -14, 30
+Vintage Rolex, -14, 16
 Elixir of the Mongoose, -11, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -1, 0
 Passes to Watchface Conference, -6, 0
 Passes to Watchface Conference, -11, 0
-Fragile Watch, -13, 0
+Fragile, -13, 0
 
 -------- day 17 --------
 name, sellIn, quality
 +5 Dexterity Vest, -7, 0
-Vintage Rolex, -15, 32
+Vintage Rolex, -15, 17
 Elixir of the Mongoose, -12, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -2, 0
 Passes to Watchface Conference, -7, 0
 Passes to Watchface Conference, -12, 0
-Fragile Watch, -14, 0
+Fragile, -14, 0
 
 -------- day 18 --------
 name, sellIn, quality
 +5 Dexterity Vest, -8, 0
-Vintage Rolex, -16, 34
+Vintage Rolex, -16, 18
 Elixir of the Mongoose, -13, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -3, 0
 Passes to Watchface Conference, -8, 0
 Passes to Watchface Conference, -13, 0
-Fragile Watch, -15, 0
+Fragile, -15, 0
 
 -------- day 19 --------
 name, sellIn, quality
 +5 Dexterity Vest, -9, 0
-Vintage Rolex, -17, 36
+Vintage Rolex, -17, 19
 Elixir of the Mongoose, -14, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -4, 0
 Passes to Watchface Conference, -9, 0
 Passes to Watchface Conference, -14, 0
-Fragile Watch, -16, 0
+Fragile, -16, 0
 
 -------- day 20 --------
 name, sellIn, quality
 +5 Dexterity Vest, -10, 0
-Vintage Rolex, -18, 38
+Vintage Rolex, -18, 20
 Elixir of the Mongoose, -15, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -5, 0
 Passes to Watchface Conference, -10, 0
 Passes to Watchface Conference, -15, 0
-Fragile Watch, -17, 0
+Fragile, -17, 0
 
 -------- day 21 --------
 name, sellIn, quality
 +5 Dexterity Vest, -11, 0
-Vintage Rolex, -19, 40
+Vintage Rolex, -19, 21
 Elixir of the Mongoose, -16, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -6, 0
 Passes to Watchface Conference, -11, 0
 Passes to Watchface Conference, -16, 0
-Fragile Watch, -18, 0
+Fragile, -18, 0
 
 -------- day 22 --------
 name, sellIn, quality
 +5 Dexterity Vest, -12, 0
-Vintage Rolex, -20, 42
+Vintage Rolex, -20, 22
 Elixir of the Mongoose, -17, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -7, 0
 Passes to Watchface Conference, -12, 0
 Passes to Watchface Conference, -17, 0
-Fragile Watch, -19, 0
+Fragile, -19, 0
 
 -------- day 23 --------
 name, sellIn, quality
 +5 Dexterity Vest, -13, 0
-Vintage Rolex, -21, 44
+Vintage Rolex, -21, 23
 Elixir of the Mongoose, -18, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -8, 0
 Passes to Watchface Conference, -13, 0
 Passes to Watchface Conference, -18, 0
-Fragile Watch, -20, 0
+Fragile, -20, 0
 
 -------- day 24 --------
 name, sellIn, quality
 +5 Dexterity Vest, -14, 0
-Vintage Rolex, -22, 46
+Vintage Rolex, -22, 24
 Elixir of the Mongoose, -19, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -9, 0
 Passes to Watchface Conference, -14, 0
 Passes to Watchface Conference, -19, 0
-Fragile Watch, -21, 0
+Fragile, -21, 0
 
 -------- day 25 --------
 name, sellIn, quality
 +5 Dexterity Vest, -15, 0
-Vintage Rolex, -23, 48
+Vintage Rolex, -23, 25
 Elixir of the Mongoose, -20, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -10, 0
 Passes to Watchface Conference, -15, 0
 Passes to Watchface Conference, -20, 0
-Fragile Watch, -22, 0
+Fragile, -22, 0
 
 -------- day 26 --------
 name, sellIn, quality
 +5 Dexterity Vest, -16, 0
-Vintage Rolex, -24, 50
+Vintage Rolex, -24, 26
 Elixir of the Mongoose, -21, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -11, 0
 Passes to Watchface Conference, -16, 0
 Passes to Watchface Conference, -21, 0
-Fragile Watch, -23, 0
+Fragile, -23, 0
 
 -------- day 27 --------
 name, sellIn, quality
 +5 Dexterity Vest, -17, 0
-Vintage Rolex, -25, 50
+Vintage Rolex, -25, 27
 Elixir of the Mongoose, -22, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -12, 0
 Passes to Watchface Conference, -17, 0
 Passes to Watchface Conference, -22, 0
-Fragile Watch, -24, 0
+Fragile, -24, 0
 
 -------- day 28 --------
 name, sellIn, quality
 +5 Dexterity Vest, -18, 0
-Vintage Rolex, -26, 50
+Vintage Rolex, -26, 28
 Elixir of the Mongoose, -23, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -13, 0
 Passes to Watchface Conference, -18, 0
 Passes to Watchface Conference, -23, 0
-Fragile Watch, -25, 0
+Fragile, -25, 0
 
 -------- day 29 --------
 name, sellIn, quality
 +5 Dexterity Vest, -19, 0
-Vintage Rolex, -27, 50
+Vintage Rolex, -27, 29
 Elixir of the Mongoose, -24, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -14, 0
 Passes to Watchface Conference, -19, 0
 Passes to Watchface Conference, -24, 0
-Fragile Watch, -26, 0
+Fragile, -26, 0
 
 -------- day 30 --------
 name, sellIn, quality
 +5 Dexterity Vest, -20, 0
-Vintage Rolex, -28, 50
+Vintage Rolex, -28, 30
 Elixir of the Mongoose, -25, 0
 Legendary Watch Face, 0, 80
 Legendary Watch Face, -1, 80
 Passes to Watchface Conference, -15, 0
 Passes to Watchface Conference, -20, 0
 Passes to Watchface Conference, -25, 0
-Fragile Watch, -27, 0
+Fragile, -27, 0
 
 "
 `;
